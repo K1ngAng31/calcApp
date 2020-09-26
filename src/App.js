@@ -17,7 +17,10 @@ class App extends Component{
     this.calculate = this.calculate.bind(this);
   }
 
-  //Now we create our function
+  //Now we create our function for numberInput
+  numberInput(num){
+
+  }
 
 
 }
