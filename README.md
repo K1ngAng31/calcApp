@@ -1,5 +1,9 @@
 ## Simple Calculator (1st APP)
-For a demonstration: https://calc-app-ashen.vercel.app/
+For a demonstration: https://calc-app.k1ngang31.vercel.app/
+
+For my first time creating an APP, I feel accomplished, there can definitely be improvements. 
+
+On to the next APP.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
