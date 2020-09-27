@@ -3,7 +3,10 @@
 }
 
 body{
-  background-image: url('background.jpg')
+  background-image: url('epRGSo.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
 }
 ol{
    display: inline-block;
@@ -12,7 +15,7 @@ ol{
 }
 .button {
   background-color: #4CAF50; /* Green */
-  border: none;
+  border: black;
   border-radius: 12px;
   color: white;
   padding: 15px 32px;
@@ -31,6 +34,7 @@ ol{
 .buttonDivide {background-color: #984938;} /*Brown Red*/
 
 input[type=text]{
+  border: 2px solid black;
   width: 20%;
   padding: 12px 20px;
   margin: 8px 0;

@@ -68,10 +68,10 @@ function App() {
   }
 
   return (
-    <div className="App" style={{ color: 'white' }}>
+    <div className="App" style={{ color: 'Black' }}>
     <body>
       <div className="app-title">
-        <h1><u> Basic Calculator </u></h1>
+        <h1 style={{ color: 'Blue'}}><u> Basic Calculator </u></h1>
         <h3>Instructions:</h3>
           <li>Replace <u>Enter a number</u> with number you want.</li>
           <li>Choose the operator</li>
