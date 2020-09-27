@@ -2,6 +2,9 @@
   text-align: center;
 }
 
+body{
+  background-image: url('background.jpg')
+}
 ol{
    display: inline-block;
    margin-left: auto;
@@ -23,5 +26,18 @@ ol{
 
 .buttonAdd {background-color: #008CBA;} /* Blue */
 .buttonSubtract {background-color: #f44336;} /* Red */
-.buttonMultiply {background-color: #e7e7e7; color: black;} /* Gray */
+.buttonMultiply {background-color: #e7e7e7;} /* Gray */
 .buttonClear {background-color: #555555;} /* Black */
+.buttonDivide {background-color: #984938;} /*Brown Red*/
+
+input[type=text]{
+  width: 20%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
